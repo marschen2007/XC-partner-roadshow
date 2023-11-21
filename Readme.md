@@ -1,7 +1,7 @@
 # F5 Distributed Cloud (XC) - Technical Learning Path
 
 請填表單輸入您的email address,我們將發送email 給您開啟Lab
-https://docs.google.com/forms/d/e/1FAIpQLSerY8bDS5rSacM6t_Y8JlfFxMdqggUM41rz7BPJWpgh66URFQ/viewform?usp=sf_link
+(https://docs.google.com/forms/d/e/1FAIpQLSerY8bDS5rSacM6t_Y8JlfFxMdqggUM41rz7BPJWpgh66URFQ/viewform?usp=sf_link "游標顯示")
 
 ### Learning Path
 1.	Begin the journey by completing the XC Technical Achievement 101 introduction material.
