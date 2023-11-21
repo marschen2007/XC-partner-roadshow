@@ -105,7 +105,6 @@ Go to F5 DevCentral and from the menu select Groups, Community Groups, Distribut
 The following resources are intended to provide additional understanding of the use cases and advantages of the XC platform
 
 You can use this material to understand and work through solutions you may need to provide for your customer.  The material is not intended to be consumed in any particular order.
-![image](https://github.com/marschen2007/XC-partner-roadshow/assets/3064170/fdab55bc-cc95-400e-9748-78def5ed0521)
 
  
  
