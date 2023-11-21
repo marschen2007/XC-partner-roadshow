@@ -1,3 +1,4 @@
+# 20231129 XC partner roadshow training
 # F5 Distributed Cloud (XC) - Technical Learning Path
 
 請填表單輸入您的email address,我們將發送email 給您開啟Lab
