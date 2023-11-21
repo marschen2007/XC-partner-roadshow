@@ -1,7 +1,7 @@
 請填表單輸入您的email address,我們將發送email 給您開啟Lab
 https://docs.google.com/forms/d/e/1FAIpQLSerY8bDS5rSacM6t_Y8JlfFxMdqggUM41rz7BPJWpgh66URFQ/viewform?usp=sf_link
 
-![Alt text](Technical Learning Path.png)
+![Alt text](learningpath.png)
 
 # F5 Partner Connect Roadshow – Distributed Cloud (XC) Agenda
  
