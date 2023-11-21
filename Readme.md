@@ -1,7 +1,5 @@
-
+請填表單輸入您的email address,我們將發送email 給您開啟Lab
 https://docs.google.com/forms/d/e/1FAIpQLSerY8bDS5rSacM6t_Y8JlfFxMdqggUM41rz7BPJWpgh66URFQ/viewform?usp=sf_link
-
-
 
 # F5 Partner Connect Roadshow – Distributed Cloud (XC) Agenda
  
@@ -13,7 +11,7 @@ Please have access to Partner-Central. Sign-Up link here.
  
 ## Presentations: Parnter Connect XC Technical Roadshow Presentation.pptx
 
-download ppt
+下載ppt
 https://docs.google.com/presentation/d/1SRCgxaOscASl21-IvC6ibKwqf2A15iWB/edit?usp=sharing&ouid=114422275310448597514&rtpof=true&sd=true
 
 - F5 Distributed Cloud Service – Overview (30 min.)
