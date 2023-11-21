@@ -48,27 +48,28 @@ UDF Course link  https://udf.f5.com/course/15d09870-8bc1-4d96-ae62-387e6aeec5
 F5 Distributed Cloud – Introduction to Deployment Models and Services
                 
 Introduction : Accessing F5 Distributed Cloud Console
-Lab 1:  Deploying F5 Distributed Cloud Proxy Services to Securely Deliver a Public Endpoint
-Lab 2: Deploying an AWS VPC Site
-Lab 3: Protecting a Private Endpoint
-Lab 4: Introduction to F5 Distributed Cloud DNS
-Lab 5:  Introduction to Observability
-Lab 6: Introduction to Content Delivery Networks (CDN)
-Lab 7: Introduction to MCN
-Conclusion
+- Lab 1:  Deploying F5 Distributed Cloud Proxy Services to Securely Deliver a Public Endpoint
+- Lab 2: Deploying an AWS VPC Site
+- Lab 3: Protecting a Private Endpoint
+- Lab 4: Introduction to F5 Distributed Cloud DNS
+- Lab 5:  Introduction to Observability
+- Lab 6: Introduction to Content Delivery Networks (CDN)
+- Lab 7: Introduction to MCN
+- Conclusion
  
 #### Lab 2 (https://clouddocs.f5.com/training/community/f5xc/html/)
  
 F5 Distributed Cloud – WAF/WAAP Deeper Dive
+
 Introduction:  Accessing F5 Distributed Cloud Console
-Lab 1:  Deploying and Managing F5 Distributed Cloud Web Application Firewall Configuration
-Lab 2:  Reviewing Signature-based Bot Strategies and enabling F5 Distributed Cloud BotDefense
-Lab 3:  Exploring Service Policies
-Lab 4: Malicious Users
-Lab 5:  Rate Limiting
-Lab 6: API Discovery & Protection
-Lab 7: Client-Side Defense
-Conclusion
+- Lab 1:  Deploying and Managing F5 Distributed Cloud Web Application Firewall Configuration
+- Lab 2:  Reviewing Signature-based Bot Strategies and enabling F5 Distributed Cloud BotDefense
+- Lab 3:  Exploring Service Policies
+- Lab 4: Malicious Users
+- Lab 5:  Rate Limiting
+- Lab 6: API Discovery & Protection
+- Lab 7: Client-Side Defense
+- Conclusion
  
 ## Step 3 - F5 Distributed Cloud (XC) Technical Learning Path Quiz
 
