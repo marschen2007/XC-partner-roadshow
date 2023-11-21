@@ -1,5 +1,14 @@
+# F5 Distributed Cloud (XC) - Technical Learning Path
+
 請填表單輸入您的email address,我們將發送email 給您開啟Lab
 https://docs.google.com/forms/d/e/1FAIpQLSerY8bDS5rSacM6t_Y8JlfFxMdqggUM41rz7BPJWpgh66URFQ/viewform?usp=sf_link
+
+Learning Path
+1.	Begin the journey by completing the XC Technical Achievement 101 introduction material.
+2.	Attend a theater based F5 Partner Connect Roadshow or work through the online Self-Guided Training.
+3.	Take the qualifying F5 XC Technical Learning Path Quiz and Survey.
+4.	Receive notification that your account has been created for Login to the F5 Distributed Cloud Channel Tenant, and receive your Credly Accreditation Badge.
+
 
 ![Alt text](learningpath.png)
 
