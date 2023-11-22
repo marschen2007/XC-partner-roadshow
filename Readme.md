@@ -43,8 +43,6 @@ https://docs.google.com/presentation/d/1SRCgxaOscASl21-IvC6ibKwqf2A15iWB/edit?us
 ### Labs:
  
 #### Lab 1 (https://clouddocs.f5.com/training/community/f5xc/html/)
-
-UDF Course link  https://udf.f5.com/course/15d09870-8bc1-4d96-ae62-387e6aeec56e#schedule
  
 F5 Distributed Cloud – Introduction to Deployment Models and Services
                 
