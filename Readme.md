@@ -9,7 +9,7 @@
 - 參加F5合作夥伴連接巡迴展示，或者進行線上自學培訓。
 - 參加符合資格的F5 XC技術學習路徑測驗和調查。
 - 收到通知，表示您的帳戶已經建立，可以登錄到F5 Distributed Cloud Channel租戶，並獲得您的Credly認證徽章。
-!(3.png)
+![3](3.png)
 ## Step 1 - F5 Distributed Cloud (XC) Technical Overview 101
 
 Step one in the XC Partner Access and Technical Learning Path is for the Partner SE/SA to complete the F5 XC Technical Overview 101.
