@@ -5,12 +5,10 @@
 (https://docs.google.com/forms/d/e/1FAIpQLSerY8bDS5rSacM6t_Y8JlfFxMdqggUM41rz7BPJWpgh66URFQ/viewform?usp=sf_link)
 
 ### Learning Path
-1.	Begin the journey by completing the XC Technical Achievement 101 introduction material.
-2.	Attend a theater based F5 Partner Connect Roadshow or work through the online Self-Guided Training.
-3.	Take the qualifying F5 XC Technical Learning Path Quiz and Survey.
-4.	Receive notification that your account has been created for Login to the F5 Distributed Cloud Channel Tenant, and receive your Credly Accreditation Badge.
-
-![Alt text](learningpath.png)
+- 通過完成XC技術101的介紹資訊。
+- 參加F5合作夥伴連接巡迴展示，或者進行線上自學培訓。
+- 參加符合資格的F5 XC技術學習路徑測驗和調查。
+- 收到通知，表示您的帳戶已經建立，可以登錄到F5 Distributed Cloud Channel租戶，並獲得您的Credly認證徽章。
 
 ## Step 1 - F5 Distributed Cloud (XC) Technical Overview 101
 
@@ -72,10 +70,9 @@ Introduction:  Accessing F5 Distributed Cloud Console
  
 ## Step 3 - F5 Distributed Cloud (XC) Technical Learning Path Quiz
 
-The F5 Distributed Cloud (XC) - Channel Partner Quiz is the gating function for partner SEs/SAs to gain access to the Channel Tenant on the XC platform. Upon successful completion Channel Tenant admins will create your XC Tenant ID and submit your information to receive a F5 Credly badge for your achievement.
-Once partners have completed the prerequisite training in Steps 1 & 2 they may take the XC - Channel Partner Quiz.  
+F5分散式雲端（XC）- 通路夥伴測驗是合作夥伴SE/SA取得在XC平台上存取通路租戶的關鍵步驟。 成功完成後，頻道租用戶管理員將建立您的XC租用戶ID，並提交您的資訊以獲得F5 Credly成就徽章。 
 
-https://partnercentral.f5.com/explore/1037857?popupstate=%7B%22state%22:%22app.viewContent%22,%22srefParams%22:%7B%22source%22:13,%22sourceId%22:2184839,%22sourceType%22:null,%22assetId%22:2201822,%22assetComponentId%22:2206885%7D%7D
+https://partnercentral.f5.com/explore/103785popupstate=%7B%22state%22:%22app.viewContent%22,%22srefParams%22:%7B%22source%22:13,%22sourceId%22:2184839,%22sourceType%22:null,%22assetId%22:2201822,%22assetComponentId%22:2206885%7D%7D
 
 fill out survey 
 https://forms.office.com/r/NJitAitWXv
