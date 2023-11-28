@@ -72,7 +72,7 @@ Introduction:  Accessing F5 Distributed Cloud Console
 
 F5分散式雲端（XC）- 通路夥伴測驗是合作夥伴SE/SA取得在XC平台上存取通路租戶的關鍵步驟。 成功完成後，頻道租用戶管理員將建立您的XC租用戶ID，並提交您的資訊以獲得F5 Credly成就徽章。 
 
-https://partnercentral.f5.com/explore/103785popupstate=%7B%22state%22:%22app.viewContent%22,%22srefParams%22:%7B%22source%22:13,%22sourceId%22:2184839,%22sourceType%22:null,%22assetId%22:2201822,%22assetComponentId%22:2206885%7D%7D
+[https://partnercentral.f5.com/explore/103785popupstate=%7B%22state%22:%22app.viewContent%22,%22srefParams%22:%7B%22source%22:13,%22sourceId%22:2184839,%22sourceType%22:null,%22assetId%22:2201822,%22assetComponentId%22:2206885%7D%7D](https://partnercentral.f5.com/explore/1037857?popupstate=%7B%22state%22:%22app.viewContent%22,%22srefParams%22:%7B%22source%22:13,%22sourceId%22:2184839,%22sourceType%22:null,%22assetId%22:2201822,%22assetComponentId%22:2206885%7D%7D), fill out survey (https://forms.office.com/r/NJitAitWXv) )
 
 fill out survey 
 https://forms.office.com/r/NJitAitWXv
@@ -80,7 +80,8 @@ https://forms.office.com/r/NJitAitWXv
 Don’t forget to sign up for DevCentral and join the XC Group – keep the conversation going!! 
 (https://community.f5.com/) Groups - Community Groups – Distributed Cloud Users
 •	Link to Quiz (in LearnF5)
-We also request feedback on the F5 Distributed Cloud Technical Learning Path. Please take the following survey once complete with the quiz.
+We also request feedback on the F5 D![image](https://github.com/marschen2007/XC-partner-roadshow/assets/3064170/9e68a7ae-b1ed-4ac6-891d-abae49bf13ae)
+istributed Cloud Technical Learning Path. Please take the following survey once complete with the quiz.
 •	Link to Survey
 Upon successful completion of the quiz we will review the results and create your XC Channel Tenant ID as well as submit your information to receive a F5 Credly badge for your achievement. This process is done weekly on Mondays for the candidates of the week prior. You will be notified via email when your ID is ready and you can begin your journey with the Learning Resources in Step 5.
 
