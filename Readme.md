@@ -93,7 +93,7 @@ Upon quiz completion and account review you will receive an email with direction
 ### XC Channel Tenant Access
 Once you have received your user ID from your theater admin, you can navigate to the XC Channel Tenant space and log in.
 
-### DevCentral - XC User Community
+DevCentral - XC User Community
 Go to F5 DevCentral and from the menu select Groups, Community Groups, Distributed Cloud User and create and account.
 
 ## Step 5 - F5 Distributed Cloud (XC) Partner Learning Resources
