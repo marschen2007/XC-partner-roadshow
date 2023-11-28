@@ -80,8 +80,7 @@ https://forms.office.com/r/NJitAitWXv
 Don’t forget to sign up for DevCentral and join the XC Group – keep the conversation going!! 
 (https://community.f5.com/) Groups - Community Groups – Distributed Cloud Users
 •	Link to Quiz (in LearnF5)
-We also request feedback on the F5 D![image](https://github.com/marschen2007/XC-partner-roadshow/assets/3064170/9e68a7ae-b1ed-4ac6-891d-abae49bf13ae)
-istributed Cloud Technical Learning Path. Please take the following survey once complete with the quiz.
+We also request feedback on the F5 Distributed Cloud Technical Learning Path. Please take the following survey once complete with the quiz.
 •	Link to Survey
 Upon successful completion of the quiz we will review the results and create your XC Channel Tenant ID as well as submit your information to receive a F5 Credly badge for your achievement. This process is done weekly on Mondays for the candidates of the week prior. You will be notified via email when your ID is ready and you can begin your journey with the Learning Resources in Step 5.
 
