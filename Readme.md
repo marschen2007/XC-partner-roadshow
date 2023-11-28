@@ -104,7 +104,8 @@ The following resources are intended to provide additional understanding of the 
 
 You can use this material to understand and work through solutions you may need to provide for your customer.  The material is not intended to be consumed in any particular order.
 
- 
+![2](2.png)
+![1](1.png)
  
  
  
