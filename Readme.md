@@ -1,9 +1,6 @@
 # 20231129 XC partner roadshow training
 # F5 Distributed Cloud (XC) - Technical Learning Path
 
-請填表單輸入您的email address,我們將發送email 給您開啟Lab
-(https://docs.google.com/forms/d/e/1FAIpQLSerY8bDS5rSacM6t_Y8JlfFxMdqggUM41rz7BPJWpgh66URFQ/viewform?usp=sf_link)
-
 ### Learning Path
 - 通過完成XC技術101的介紹資訊。
 - 參加F5合作夥伴連接巡迴展示，或者進行線上自學培訓。
@@ -39,7 +36,9 @@ https://docs.google.com/presentation/d/1SRCgxaOscASl21-IvC6ibKwqf2A15iWB/edit?us
 - F5 Distributed Cloud Synthetic Monitoring Deep Dive (30 min.)
  
 ### Labs:
- 
+請填表單輸入您的email address,我們將發送email 給您開啟Lab
+(https://docs.google.com/forms/d/e/1FAIpQLSerY8bDS5rSacM6t_Y8JlfFxMdqggUM41rz7BPJWpgh66URFQ/viewform?usp=sf_link)
+
 #### Lab 1 (https://clouddocs.f5.com/training/community/f5xc/html/)
  
 F5 Distributed Cloud – Introduction to Deployment Models and Services
@@ -88,13 +87,13 @@ Upon successful completion of the quiz we will review the results and create you
 
 Upon successful completion of the XC Channel Partner Quiz, partner SE/SAs will received their Credly badge for the Learning Path and notification that their ID has been created inside the XC Channel Tenant. There they can then begin to work though learning how to do demos for their customers. It is also recommended for them to sign-up for the DevCentral XC User Community.
 
-Credly Accreditation Badge
+### Credly Accreditation Badge
 Upon quiz completion and account review you will receive an email with directions on how to claim your Credly badge.
 
-XC Channel Tenant Access
+### XC Channel Tenant Access
 Once you have received your user ID from your theater admin, you can navigate to the XC Channel Tenant space and log in.
 
-DevCentral - XC User Community
+### DevCentral - XC User Community
 Go to F5 DevCentral and from the menu select Groups, Community Groups, Distributed Cloud User and create and account.
 
 ## Step 5 - F5 Distributed Cloud (XC) Partner Learning Resources
